@@ -47,8 +47,8 @@ The data set is a csv file with the loan data for the Lending Club.
 - This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 ## Contributors
-Animesh Kumar Pandey
-Pankaj Kumar
+- Animesh Kumar Pandey
+- Pankaj Kumar
 
 
 ## Contact
